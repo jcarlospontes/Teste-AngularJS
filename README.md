@@ -1,5 +1,7 @@
 "# Teste-AngularJS" 
 
+nvm use 8.9.4
+
 npm install
 
 npm install angular
